@@ -1,0 +1,15 @@
+{
+  "name": "romprofitgraphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/olixis/romprofitgraphql.git",
+  "author": "Caio Fontes <olixis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "mongodb": "^3.1.13"
+  }
+}
